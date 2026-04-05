@@ -1,7 +1,7 @@
 # Flight Delay Prediction Project 
 
 ## Problem Description
-Flight delays cost airlines a lot of money and frustrate passengers. This project aims to analyze and predict delays for flights departing from Turkey. We will build machine learning models to predict if a flight will be on time or delayed, using data like flight schedules and weather conditions.
+Flight delays cost airlines a lot of money and frustrate passengers. This project aims to analyze and predict delays for flights departing from Türkiye. We will build machine learning models to predict if a flight will be on time or delayed, using data like flight schedules and weather conditions.
 
 ## Dataset Source
 The data was scraped using Python scripts from flightera.net and merged with hourly climate data obtained from the openmeteo. Also, the aircraft types were scraped from flightaware.com.
