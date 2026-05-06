@@ -9,5 +9,5 @@ The data was scraped using Python scripts from flightera.net and merged with hou
 ## Project Connections
 This repository hosts the deliverables for three interconnected projects:
 1. **P1** We build and clean the dataset, then analyze it to find the main causes of flight delays.
-2. **P2**
+2. **P2** We engineered schedule, traffic, and weather features and compared linear, polynomial, and regularized regressions. Ridge performed best by validation, while the simple baseline slightly outperformed others on the test set.
 3. **P3** 
